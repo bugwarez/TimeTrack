@@ -1,0 +1,15 @@
+.Timer
+{
+    border:6px solid red;
+    padding: 16px;
+    border-radius: 10px;
+}
+.timer-text
+{
+    text-align: center;
+
+}
+.timer-buttons button
+{
+    margin: 4px;
+}
